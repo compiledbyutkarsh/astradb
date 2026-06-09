@@ -2,9 +2,11 @@
 
 ![AstraDB Demo](screenshots/astradb-demo.png)
 
-AstraDB is a high-performance asynchronous key-value database built in Rust with a focus on concurrency, durability, and systems-level architecture.
+AstraDB is a small systems programming project focused on exploring how modern storage engines and infrastructure services work internally.
 
-The project explores the internal design of modern storage systems including write-ahead logging, snapshot persistence, background compaction, pipelined networking, TTL expiration, telemetry, and replication-ready event streaming.
+The project started as an experiment around async networking and gradually evolved into a more complete database prototype with durability, snapshot persistence, TTL expiration, telemetry, pipelining, and replication-oriented event streaming.
+
+A lot of the design is inspired by ideas commonly seen in systems like Redis, RocksDB, and other infrastructure tooling.
 
 ---
 
