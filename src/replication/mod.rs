@@ -4,6 +4,7 @@ use tokio::sync::broadcast;
     Clone,
     Debug,
 )]
+#[allow(dead_code)]
 pub struct ReplicationEvent {
     pub operation: String,
 
