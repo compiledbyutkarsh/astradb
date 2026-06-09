@@ -166,7 +166,3 @@ data/
 * Zero-copy parsing
 
 ---
-
-## License
-
-MIT
