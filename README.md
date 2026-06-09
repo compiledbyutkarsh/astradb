@@ -1,7 +1,6 @@
 # AstraDB
 
-![AstraDB Demo](screenshots/astradb-demo(server).png)
-![AstraDB Demo](screenshots/astradb-demo(client).png)
+![AstraDB Demo](screenshots/astradb-demo.png)
 
 AstraDB is a small systems programming project focused on exploring how modern storage engines and infrastructure services work internally.
 
