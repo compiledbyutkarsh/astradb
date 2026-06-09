@@ -1,0 +1,16 @@
+{
+  "data": {
+    "user2": "john",
+    "infra": "dockerized",
+    "user": "alex",
+    "user4": "mike",
+    "user1": "alex",
+    "a": "1",
+    "c": "3",
+    "runtime": "tokio",
+    "b": "2",
+    "user3": "emma",
+    "language": "rust",
+    "database": "astradb"
+  }
+}
